@@ -1,0 +1,10 @@
+# Files to ignore
+/target/
+.DS_*
+.classpath
+bin/
+*.log
+.idea/dictionaries/*
+.idea/libraries/*
+.idea/.name
+/webServices.iml
