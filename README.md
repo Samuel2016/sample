@@ -4,12 +4,18 @@
 ## Automation demo 
 
 ### 1) framework - 
-    shows a sample page objects model custom automation framework
+    https://github.com/Samuel2016/sample/tree/feature/US1234_seleniumTest/src/test/java/com/sample/framework
+    
+    - shows a sample page objects model custom automation framework
 
 ### 2) userInterface - 
-    shows a sample UI transaction
+    https://github.com/Samuel2016/sample/blob/feature/US1234_seleniumTest/src/test/java/com/sample/userInterface
+        
+    - shows a sample UI transaction
    
 ### 3) webService - 
-    shows sample API crud transaction
+    https://github.com/Samuel2016/sample/blob/feature/US1234_seleniumTest/src/test/java/com/sample/webService
+    
+    - shows sample API crud transaction
         
 
