@@ -17,5 +17,5 @@
     https://github.com/Samuel2016/sample/blob/feature/US1234_seleniumTest/src/test/java/com/sample/webService
     
     - shows sample API crud transaction
-        
-
+    - passing id var from one to another http call
+    - OOP
